@@ -1,0 +1,16 @@
+.container-fluid, .bg-primary  {
+    background-color: bisque;
+  }
+
+  .navbar {
+    padding-top: 0%;
+  }
+
+  .w3-container {
+    padding-left: 40%;
+  }
+
+  .header {
+    text-align: center;
+    font-family: cursive;
+  }

@@ -1,0 +1,47 @@
+.about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #a9cde2;
+    color: white;
+  }
+
+  .container-fluid, .bg-primary  {
+    background-color: bisque;
+  }
+
+  .navbar {
+    padding-top: 0%;
+  }
+
+  .w3-container {
+    padding-left: 40%;
+  }
+
+  .header {
+    text-align: center;
+    font-family: cursive;
+  }
+
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+  }
+  
+  
+  .row::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  h2 {
+    text-align: center;
+  }
+ 
+  
+  @media screen and (max-width:600px) {
+    .column {
+      width: 100%;
+    }
+  }

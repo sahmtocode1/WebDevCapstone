@@ -1,0 +1,33 @@
+.about-section {
+  padding: 10px;
+    text-align: center;
+    background-color: #a9cde2;
+    color: white;
+  }
+
+  section {
+    padding-left: 20%;
+  }
+
+.container-fluid, .bg-primary  {
+    background-color: bisque;
+  }
+
+  .navbar {
+    padding-top: 0%;
+  }
+
+  .w3-container {
+    padding-left: 40%;
+  }
+
+  .mySlides {
+    padding-left: 18%;
+
+  }
+
+  .header {
+    text-align: center;
+    font-family: cursive;
+  }
+
